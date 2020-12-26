@@ -1,4 +1,4 @@
-package ConfigFile
+package CeresConfigFile
 
 type Option func(f *fileSource)
 
