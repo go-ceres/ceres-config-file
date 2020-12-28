@@ -6,8 +6,8 @@ github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 h1:DDGfHa7BWjL4Yn
 github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869/go.mod h1:Ekp36dRnpXw/yCqJaO+ZrUyxD+3VXMFFr56k5XYrpB4=
 github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
-github.com/go-ceres/ceres-config v1.0.0-beta.2 h1:yD14LNWkofm+m3Em7GwgB6qVrFtNwRqWg4smuetUqtk=
-github.com/go-ceres/ceres-config v1.0.0-beta.2/go.mod h1:q+s6gJHd2QjBDGZ9bQ2hE5njziHUjpa0lKmKc3KVTDY=
+github.com/go-ceres/ceres-config v1.0.1 h1:RaEMtkevbtueTwpTWIrwQE5YNwDlDG+JF0di4sjhfDk=
+github.com/go-ceres/ceres-config v1.0.1/go.mod h1:q+s6gJHd2QjBDGZ9bQ2hE5njziHUjpa0lKmKc3KVTDY=
 github.com/kr/pretty v0.2.1 h1:Fmg33tUaq4/8ym9TJN1x7sLJnHVwhP33CNkpYV/7rwI=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
